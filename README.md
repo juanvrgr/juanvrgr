@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanvrgr
 - 👀 I’m interested in videogames, crypto and developing!
 - 🌱 I’m currently learning Full Stack Dev
-- 📫 How to reach me: @juanvrgr on Twitter
+- 📫 How to reach me: jnmvrgr@gmail.com
 
 <!---
 juanvrgr/juanvrgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
