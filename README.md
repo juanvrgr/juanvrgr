@@ -1,10 +1,27 @@
-Hello! I'm a Full Stack Developer, blockchain lover. I'm always looking to improve my knowledge and of course, my coding.
+<h1 align="center"> Hello, I'm Juan! 👋 </h1>
+
+```js
+let juanvrgr = {
+  Skills: {
+      BackEnd: [
+          {JavaScript: ['NodeJS', 'Express', 'SQL']}
+        ],
+      FrontEnd: [
+          {JavaScript: ['React', 'React-Native', 'Redux']}
+        ]
+    },
+  Projects: [
+    ],
+}
+```
+
+I'm a Full Stack Developer, blockchain lover. I'm always looking to improve my knowledge and of course, my coding.
 My main technologies are JavaScript, React, Node, Redux, SQL, Express, HTML5 and CSS!
 
 
 Here are some of my academic projects in HENRY
 
-<h2> Me podes contactar en: </h2>
+<h2> Contact: </h2>
 
 <p>
     <a href="https://www.linkedin.com/in/juan-manuel-vergara-dev/">
