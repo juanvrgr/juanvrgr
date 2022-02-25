@@ -35,7 +35,7 @@ Here are some of my academic projects in HENRY
     <a href="https://github.com/juanvrgr">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?   compose=CllgCHrfScpwhQKgNjxQFrRtGpBMRKQSHpZWnzLzrgrVnKHcBkvRQQTzzxSklJmJhvZkmRKHXJV">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsPZFHRhWVWzzpKFNGmlXnwrKrZxJxsWfqHLhGGxnHxdqZSvTCRbhJSlvjZhBvkcGtQCQ">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
     </a>
 <p/>
