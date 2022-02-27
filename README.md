@@ -12,7 +12,7 @@ let juanvrgr = {
     },
   Projects: [
       {WeatherApp: ["",""]},
-      {DogApp: ["",""]},
+      {DogsApp: ["",""]},
       {FoodApp: ["",""]}
     ],
 }
