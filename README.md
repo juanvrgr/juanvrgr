@@ -11,6 +11,9 @@ let juanvrgr = {
         ]
     },
   Projects: [
+      {WeatherApp: ["",""]},
+      {DogApp: ["",""]},
+      {FoodApp: ["",""]}
     ],
 }
 ```
