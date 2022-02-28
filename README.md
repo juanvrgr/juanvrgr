@@ -9,12 +9,12 @@ let juanvrgr = {
       FrontEnd: [
           JavaScript = ['React', 'React-Native', 'Redux', 'HTML5', 'CSS'],
         ]
-    }
+    },
   Projects: {
       DogsApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       FoodApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       WeatherApp: ['React.js', 'CSS']
-    },
+    }
 }
 ```
 
