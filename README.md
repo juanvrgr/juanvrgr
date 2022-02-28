@@ -4,16 +4,17 @@
 let juanvrgr = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJS', 'Express', 'MySQL', 'PostgreSQL']}
+          JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL']
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux', 'HTML5', 'CSS']}
+          JavaScript = ['React', 'React-Native', 'Redux', 'HTML5', 'CSS'],
         ]
-    },
+    }
+}
   Projects: [
-      {WeatherApp: ["",""]},
-      {DogsApp: ["",""]},
-      {FoodApp: ["",""]}
+      DogsApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
+      FoodApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
+      WeatherApp: ['React.js', 'CSS']
     ],
 }
 ```
