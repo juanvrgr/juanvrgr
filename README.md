@@ -14,6 +14,7 @@ let juanvrgr = {
       DogsApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       FoodApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       WeatherApp: ['React.js', 'CSS']
+      MovieMark: ['In progress']
     }
 }
 ```
