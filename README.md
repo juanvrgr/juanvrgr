@@ -22,14 +22,22 @@ let juanvrgr = {
 <div>
   <p>
    I'm a Full Stack Developer, blockchain lover. I'm always looking to improve my knowledge and of course, my coding.
-    My main technologies are JavaScript, React, Node, Redux, SQL, Express, HTML5 and CSS!
+    My main technologies are JavaScript / TypeScript / React.js / Redux / React-native / Node.js / Express / PostgreSQL / MySQL / Sequelize / MongoDB / Mongoose / HTML5 / CSS / SASS
     Currently learning: Solidity
   </p>
 </div>
 
 
 
-Here are some of my academic projects in HENRY
+Here are some of my projects:
+
+<h2> Crypto App </h2>
+
+![Screenshot_1](https://user-images.githubusercontent.com/84838234/163047433-d7f19647-48f4-4f86-9f18-5c997d1a5c26.png)
+
+[Link](https://www.youtube.com/watch?v=E1vai-zPxo8)
+
+Personal project, used the CoinGecko API, you can see all cryptocurrency price in real time in ranking order. If you tap on any token, you can see the chart and filter by different days, months or all time, and also add it to your watchlist! Also you can create your own portfolio to track all your tokens and the price in real time. The technologies used were: React Native, Expo, React Navigation and Recoil.
 
 <h2> Movie Mark </h2>
 
