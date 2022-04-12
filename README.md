@@ -33,6 +33,8 @@ Here are some of my academic projects in HENRY
 
 <h2> Movie Mark </h2>
 
+![moviemakrkrkrrk](https://user-images.githubusercontent.com/84838234/163047217-6eca2f54-15c6-4355-96b8-b0f3a3d87e63.png)
+
 [Link](https://www.youtube.com/watch?v=j1T8vVoPyCU)
 
 Group project carried out for the Henry bootcamp, a page any cinema desires! Register and login, look for all the premiere movies (upcoming and top rated also), see all the movie details, search for our tasty groceries, and of course add tickets or groceries to our shopping cart, and once you are ready you can pay via MercadoPago. Also, we have a complete admin panel, to manage all your movies, groceries and users!
