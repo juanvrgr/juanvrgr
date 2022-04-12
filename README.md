@@ -4,10 +4,10 @@
 let juanvrgr = {
   Skills: {
       BackEnd: [
-          JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL']
+          JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB']
         ],
       FrontEnd: [
-          JavaScript = ['React', 'React-Native', 'Redux', 'HTML5', 'CSS'],
+          JavaScript = ['React', 'React-Native', 'Redux', 'HTML5', 'CSS', 'SASS'],
         ]
     },
   Projects: {
