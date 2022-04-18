@@ -23,8 +23,7 @@ let juanvrgr = {
 <div>
   <p>
    I'm a Full Stack Developer, blockchain lover. I'm always looking to improve my knowledge and of course, my coding.
-    My main technologies are JavaScript / TypeScript / React.js / Redux / React-native / Node.js / Express / PostgreSQL / MySQL / Sequelize / MongoDB / Mongoose / HTML5 / CSS / SASS
-    Currently learning: Solidity
+    My main technologies are JavaScript / TypeScript / Solidity / React.js / Redux / React-native / Node.js / Express / PostgreSQL / MySQL / Sequelize / MongoDB / Mongoose / HTML5 / CSS / SASS
   </p>
 </div>
 
