@@ -7,14 +7,15 @@ let juanvrgr = {
           JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB']
         ],
       FrontEnd: [
-          JavaScript = ['React', 'React-Native', 'Redux', 'HTML5', 'CSS', 'SASS'],
+          JavaScript = ['React', 'React Native', 'Redux', 'HTML5', 'CSS', 'SASS'],
         ]
     },
   Projects: {
       DogsApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       FoodApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       WeatherApp: ['React.js', 'CSS'],
-      MovieMark: ['In progress']
+      MovieMark: ['React.js', 'Redux', 'SASS', 'Node.js', 'Express', 'PostgreSQL'],
+      CryptoApp: ['React Native', 'Expo', 'Recoil']
     }
 }
 ```
