@@ -4,7 +4,8 @@
 let juanvrgr = {
   Skills: {
       BackEnd: [
-          JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB']
+          JavaScript = ['Node', 'Express', 'Ethers.js', 'MySQL', 'PostgreSQL', 'MongoDB']
+          Solidity = ['Hardhat']
         ],
       FrontEnd: [
           JavaScript = ['React', 'React Native', 'Redux', 'HTML5', 'CSS', 'SASS'],
@@ -15,7 +16,8 @@ let juanvrgr = {
       FoodApp: ['React.js', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
       WeatherApp: ['React.js', 'CSS'],
       MovieMark: ['React.js', 'Redux', 'SASS', 'Node.js', 'Express', 'PostgreSQL'],
-      CryptoApp: ['React Native', 'Expo', 'Recoil']
+      CryptoApp: ['React Native', 'Expo', 'Recoil'],
+      Dapp: ['Solidity', 'JavaScript', 'Ethers.js', 'Hardhat']
     }
 }
 ```
@@ -30,6 +32,14 @@ let juanvrgr = {
 
 
 Here are some of my projects:
+
+<h2>USA Vote Portal DAPP</h2>
+
+![Screenshot_1](https://user-images.githubusercontent.com/84838234/164615146-a4c2aa53-8af2-4bdd-a1c8-7b321220d9d8.png)
+
+[Link](https://waveportal-starter-project.juanvergara5.repl.co/)
+
+DAPP made to vote a candidate for USA elections in this case. Done in the Ethereum blockchain, login with MetaMask to vote. Using smart contracts, you can see all the voted registered in the blockchain, this way you can avoid any fraud. You can also vote null or blank! You can only vote once per address, and you have a chance to win a small amount of ETH after voting! The technologies used were: React.js, Ethers and CSS for the Frontend, and Solidity (with HardHat and Ethers) & JavaScript for the Backend.
 
 <h2> Crypto App </h2>
 
