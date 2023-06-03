@@ -4,7 +4,7 @@
 let juanvrgr = {
   Skills: {
       BackEnd: [
-          JavaScript = ['Node', 'Express', 'Ethers.js', 'MySQL', 'PostgreSQL', 'MongoDB'],
+          JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB', 'Docker'],
           Solidity = ['Hardhat'],
           Cloud = ['AWS']
         ],
@@ -13,6 +13,7 @@ let juanvrgr = {
         ]
     },
   Projects: {
+      MinecraftClone: ['JavaScript', 'React', 'ThreeJS'],
       MovieMark: ['React.js', 'Redux', 'SASS', 'Node.js', 'Express', 'PostgreSQL'],
       CryptoApp: ['React Native', 'Expo', 'Recoil'],
       Dapp: ['Solidity', 'JavaScript', 'Ethers.js', 'Hardhat']
