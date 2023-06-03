@@ -31,6 +31,14 @@ let juanvrgr = {
 
 Here are some of my projects:
 
+<h2>Minecraft Basic Clone</h2>
+
+![Screenshot_1](https://i.imgur.com/LwsXNTF.png)
+
+[Link](https://minecraft-basic-clone.vercel.app/)
+
+Personal project, I developed a basic clone of Minecraft using JavaScript, React, and Three.js. You can add or remove blocks, jump, run, change block types, and more. You can also save your world and load it whenever you want.
+
 <h2>USA Vote Portal DAPP</h2>
 
 ![Screenshot_1](https://user-images.githubusercontent.com/84838234/164615146-a4c2aa53-8af2-4bdd-a1c8-7b321220d9d8.png)
