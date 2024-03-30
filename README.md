@@ -4,7 +4,7 @@
 let juanvrgr = {
   Skills: {
       BackEnd: [
-          Languages = ['JavaScript', 'TypeScript', 'Python', 'Java', 'Docker'],
+          Languages = ['JavaScript', 'TypeScript', 'Python', 'Java'],
           DataBase = ['MySQL', 'PostgreSQL', 'MongoDB'],
           Cloud = ['AWS'],
           Microservices = ['Docker']
