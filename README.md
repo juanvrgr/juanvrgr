@@ -1,15 +1,18 @@
-<h1 align="center"> Hey, I'm Juan! Full Stack Developer with +2 years of experience👋 </h1>
+<h1 align="center"> Hey, I'm Juan! Full Stack Developer with 3 years of experience👋 </h1>
 
 ```js
 let juanvrgr = {
   Skills: {
       BackEnd: [
-          JavaScript = ['Node', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB', 'Docker'],
-          Solidity = ['Hardhat'],
-          Cloud = ['AWS']
+          Languages = ['JavaScript', 'TypeScript', 'Python', 'Java', 'Docker'],
+          DataBase = ['MySQL', 'PostgreSQL', 'MongoDB'],
+          Cloud = ['AWS'],
+          Microservices = ['Docker']
         ],
       FrontEnd: [
-          JavaScript = ['React', 'Next', 'React Native', 'Redux', 'HTML5', 'CSS', 'TailwindCSS', 'SASS'],
+          JavaScript = ['React', 'Next', 'React Native', 'Redux'],
+          HTML,
+          CSS = ['CSS', 'TailwindCSS', 'SASS']
         ]
     },
   Projects: {
@@ -23,8 +26,8 @@ let juanvrgr = {
 
 <div>
   <p>
-   I'm a Full Stack Developer, IT lover. I'm always looking to improve my knowledge and of course, my coding.
-    My main technologies are JavaScript, TypeScript, Node.js, Express.js, React, Next.js, Redux, React Native, SQL, MongoDB, HTML5, CSS3, Git, AWS, Redis, Docker
+   I'm a Full Stack Developer and IT lover. I'm always looking to improve my knowledge and of course, my coding.
+    My main technologies are JavaScript, TypeScript, Python, Java, Node.js, Express.js, React, Next.js, Redux, React Native, SQL, MongoDB, HTML5, CSS3, Git, AWS, Redis, Docker
   </p>
 </div>
 
